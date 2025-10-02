@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main (){
-	printf("My name is Nkole.\n");
+	printf("My name is Nkole Emmanuel.\n");
 	printf("I am 24 years old.\n");
 	printf("My favourite hobby is gaming.\n");
 
